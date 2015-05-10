@@ -1,0 +1,9 @@
+*.swp
+*.out
+node_modules/
+/bower_components/
+*.log
+*.orig
+/target/coverage
+/public
+bundle.result.json
