@@ -7,3 +7,8 @@ build:
 clean:	
 	rm -rf node_modules
 
+
+start:	
+	node server.js
+
+
